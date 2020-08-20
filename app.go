@@ -10,7 +10,7 @@ import (
 	"io"
 	"io/ioutil"
 	"log"
-	"github.com/go-test/storj"
+	"github.com/medical-blockchain/go-test"
 	"storj.io/uplink"
 )
 
