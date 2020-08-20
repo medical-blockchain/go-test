@@ -10,12 +10,11 @@ import (
 	"io"
 	"io/ioutil"
 	"log"
-	"github.com/medical-blockchain/go-test"
 	"storj.io/uplink"
 )
 
 const (
-	myAPIKey = "change-me-to-the-api-key-created-in-satellite-gui"
+	myAPIKey = "13Yqgf2KjVB1mSUchWMVe2WNLW2Ynwue77nGtjeWEaunDcyHRC9cDwk98i7QEgV3z7Fn2Eav2EXsRBVS5oYss98pcY8au69TPk5GFUo"
 
 	satellite    = "us-central-1.tardigrade.io:7777"
 	myBucket     = "my-first-bucket"
